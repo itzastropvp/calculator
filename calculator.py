@@ -1,7 +1,8 @@
 import customtkinter as ctk
 app = ctk.CTk()
 app.title("Калькулятор")
-app.geometry("400x400")
+app.geometry("320x360")
+app.resizable(False, False)
 entry1 = ctk.CTkEntry(app, width=150, height=50,font=("Arial", 20), corner_radius=8)
 entry2 = ctk.CTkEntry(app, width=150, height=50,font=("Arial", 20), corner_radius=8)
 entry1.place(relx=0.25, rely=0.11, relwidth=0.4, relheight=0.13, anchor="center")
