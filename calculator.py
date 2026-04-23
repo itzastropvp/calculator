@@ -43,6 +43,7 @@ def clear():
     entry1.delete(0, 'end')
     entry2.delete(0, 'end')
     current_operation = None
+    label.configure(text="")
 button_dodavannya = ctk.CTkButton(app, text="+",font=("Arial", 24), command=lambda: set_operation("+"), corner_radius=8)
 button_dodavannya.place(relx=0.15, rely=0.40, relwidth=0.19, relheight=0.19, anchor="center")
 button_vidnimannya = ctk.CTkButton(app, text="-", font=("Arial", 24), command=lambda: set_operation("-"),corner_radius=8)
