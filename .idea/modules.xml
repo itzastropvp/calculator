@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/customtkinter.iml" filepath="$PROJECT_DIR$/.idea/customtkinter.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/randomizer.iml" filepath="$PROJECT_DIR$/.idea/randomizer.iml" />
+>>>>>>> 5de5f98f5a5c9bd510f1be12f75f4850cf9c7e7a
+    </modules>
+  </component>
+</project>
