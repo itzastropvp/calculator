@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-<<<<<<< HEAD
     <option name="sdkName" value="Python 3.14 (customtkinter)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (customtkinter)" project-jdk-type="Python SDK" />
-=======
-    <option name="sdkName" value="Python 3.14 (randomizer)" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (randomizer)" project-jdk-type="Python SDK" />
->>>>>>> 5de5f98f5a5c9bd510f1be12f75f4850cf9c7e7a
 </project>
